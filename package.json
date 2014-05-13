@@ -1,0 +1,8 @@
+{
+    "name" : "impactjs-node",
+    "version" : "0.0.1",
+    "dependencies" : {},
+    "scripts": {
+        "start": "node main.js"
+    }
+}
