@@ -6,9 +6,10 @@ Lets you run an ImpactJS instance in NodeJS.
 ## Installation ##
 
 1. Download repo.
-2. Add ImpactJS library to `/lib/impact/`.
-3. Navigate to repo root folder in command line.
-4. Run the command `node main`.
-5. Now you should see that ImpactJS is running in Node.
+2. Make sure you have Node installed.
+3. Add ImpactJS library to `/lib/impact/`.
+4. Navigate to repo root folder in command line.
+5. Run the command `node main`.
+6. Now you should see that ImpactJS is running in Node.
 
-Note: It is assumed you already have Node installed on your computer.
+Note: This project is refinded from and inspired by [impact-crater](https://github.com/impact-crater/impact-crater-core).
