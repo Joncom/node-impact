@@ -1,4 +1,4 @@
-impactjs-node
+node-impactjs
 =============
 
 Lets you run an ImpactJS instance in NodeJS.
