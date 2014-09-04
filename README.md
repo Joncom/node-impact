@@ -1,7 +1,7 @@
-impact-node
+node-impact
 ===========
 
-Lets you run an ImpactJS instance in NodeJS.
+ImpactJS running in NodeJS.
 
 ## Installation ##
 
@@ -12,4 +12,4 @@ Lets you run an ImpactJS instance in NodeJS.
 5. Run the command `node main`.
 6. You should now see ImpactJS running in Node.
 
-_Project was initally refined from and inspired by [impact-crater](https://github.com/impact-crater/impact-crater-core)._
+_Inspired by [impact-crater](https://github.com/impact-crater/impact-crater-core)._
