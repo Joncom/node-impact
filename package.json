@@ -1,5 +1,5 @@
 {
-    "name" : "impactjs-node",
+    "name" : "node-impact",
     "version" : "0.0.1",
     "dependencies" : {},
     "scripts": {
