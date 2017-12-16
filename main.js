@@ -53,6 +53,11 @@ global.ImpactMixin = {
     },
     $: function(selector) {
         return new Canvas();
+    },
+    $new: function( name ) {
+        if(name === "canvas") {
+            return new Canvas();
+        }
     }
 };
 window.document = { };
