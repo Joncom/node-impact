@@ -66,4 +66,5 @@ window.addEventListener = function() { };
 // Canvas should be the only element impact uses on the server.
 window.HTMLElement = Canvas;
 require(impactLibPath + '/impact/impact.js');
+// TODO: Inline the node.js plugin here
 require(impactLibPath + '/game/main.js');
