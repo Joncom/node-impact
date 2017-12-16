@@ -26,6 +26,9 @@ var Canvas = function() {
                 stroke: function() { },
                 clearPath: function() { },
                 scale: function() { },
+                arc: function() { },
+                rect: function() { },
+                fill: function() { },
                 fillRect: function() { }
             };
         }
